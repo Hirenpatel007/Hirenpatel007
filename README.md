@@ -1,6 +1,3 @@
-<!--
-**Hirenpatel007/Hirenpatel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🙏 welcom, I'm Hiren Patel 👋
 
 ### 👨‍💻 I'm an IT Engineer, Developer & Lifelong Learner
