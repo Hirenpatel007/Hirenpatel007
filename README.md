@@ -1,4 +1,4 @@
-# 🙏 welcom, I'm Hiren Patel 👋
+# 🙏 welcome, I'm Hiren Patel 👋
 
 ### 👨‍💻 I'm an IT Engineer, Developer & Lifelong Learner
 
