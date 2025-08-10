@@ -1,6 +1,6 @@
 # 🙏 welcome, I'm Hiren Patel 👋
 
-### 👨‍💻 I'm an IT Engineer, Developer & Lifelong Learner
+### 👨‍💻 I'm an Software Engineer, Developer & Lifelong Learner
 
 ---
 
